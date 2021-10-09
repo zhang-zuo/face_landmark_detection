@@ -1,8 +1,9 @@
 # PFLD - 人脸5点关键点检测
 
 ## 资料 ##
-更多信息：[CSDN博客](https://blog.csdn.net/zz_0000000/article/details/120673679?spm=1001.2014.3001.5501)
-数据集：[百度云盘](https://pan.baidu.com/s/12ZjbHJppklQunrXqtfv5Mg)  密码：jc6w
+* 更多信息：[CSDN博客](https://blog.csdn.net/zz_0000000/article/details/120673679?spm=1001.2014.3001.5501)
+
+* 数据集：[百度云盘](https://pan.baidu.com/s/12ZjbHJppklQunrXqtfv5Mg)  密码：jc6w
 
 ## 网络结构 ##
 
